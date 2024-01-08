@@ -1,28 +1,28 @@
 # Interactive-Story-One
 
-1) Overview
+**Overview**
 
 I want to create an interactive fiction with light RPG (role-playing game) elements
 using HTML, CSS, and JavaScript. 
 
-2) Considerations
+**Considerations**
 
-   2a) How can I effectively combine text-based storytelling with RPG mechanics in
-       a meaningful and entertaining way?
+   How can I effectively combine text-based storytelling with RPG mechanics in
+   a meaningful and entertaining way?
 
-   2b) How could imagery be used to enhance the user experience?
+   How could imagery be used to enhance the user experience?
 
-3) Major Areas
+**Major Areas**
 
-  3a) Main Story 
+  Main Story 
 
     The main section of the program will, of course, be the interactive narrative. 
 
-  3b) Interactivity 
+  Interactivity 
 
-  3c) User Interface 
+  User Interface 
 
-4) Inspiration
+**Inspiration**
 
 This project was inspired by both an internal and an external factor. 
 
